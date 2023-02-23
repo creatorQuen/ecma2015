@@ -69,4 +69,3 @@ greeter1.greetAll(['Angelica', 'Ben' ,'Celestel']);
 // };
 
 // new Person(); //-- TypeError: Person is not a constructor
-
