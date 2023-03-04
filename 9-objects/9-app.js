@@ -62,6 +62,5 @@ const person = {
 
 const shallowCopy = Object.assign({}, person);
 
-//!-------------------------------------
+//!!!!!!!!!!!!!!
 person.friends.push('Alex');
-console.log(shallowCopy); // { name: 'John', friends: [ 'Jack', 'Lisa', 'Alex' ] }
